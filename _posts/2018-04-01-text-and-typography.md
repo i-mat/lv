@@ -9,7 +9,7 @@ tags: [typography]
 math: true
 mermaid: true
 image:
-  src: /commons/devices-mockup.png
+  src: /assets/img/posts/2018-04-01/4.jpg
   width: 800
   height: 500
 ---
