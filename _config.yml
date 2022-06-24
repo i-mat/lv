@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mat                          # the main title
+title: Matt                          # the main title
 
 tagline: O ever youthful, O ever weeping   # it will display as the sub-title
 
@@ -43,7 +43,7 @@ weibo:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Sean Mat
+  name: Sean Matt
   email: imatao@foxmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
